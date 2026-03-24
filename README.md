@@ -1,5 +1,7 @@
 # JutForm — Pre-flight Environment Check
 
+> **Note:** JutForm is a fictional, parody version of [Jotform](https://www.jotform.com) created solely for this assessment. It is not affiliated with or endorsed by Jotform in any way.
+
 This repository verifies that your machine can run the JutForm assessment environment. Please complete these steps **before event day** so we can use all 3 hours for the actual assessment.
 
 ## Prerequisites
